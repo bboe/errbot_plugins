@@ -1,0 +1,13 @@
+[Core]
+name = GCE
+module = gce
+
+[Documentation]
+description = Google Compute Engine Commands
+
+[Python]
+version = 3
+
+[Errbot]
+min = 5.2.0
+max = 5.2.0
