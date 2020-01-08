@@ -9,5 +9,4 @@ description = Google Compute Engine Commands
 version = 3
 
 [Errbot]
-min = 5.2.0
-max = 5.2.0
+min = 6.0.0
